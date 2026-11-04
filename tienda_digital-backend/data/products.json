@@ -1,0 +1,32 @@
+[
+  {
+    "id": "P001",
+    "name": "Auriculares Bluetooth",
+    "description": "Auriculares inalámbricos con excelente sonido.",
+    "price": 45000,
+    "stock": 15,
+    "image": "https://placehold.co/400x300?text=Auriculares",
+    "category": "Tecnología",
+    "active": true
+  },
+  {
+    "id": "P002",
+    "name": "Reloj Inteligente",
+    "description": "Smartwatch con monitor de actividad.",
+    "price": 65000,
+    "stock": 10,
+    "image": "https://placehold.co/400x300?text=Smartwatch",
+    "category": "Tecnología",
+    "active": true
+  },
+  {
+    "id": "P003",
+    "name": "Mochila Urbana",
+    "description": "Mochila resistente para uso diario.",
+    "price": 35000,
+    "stock": 20,
+    "image": "https://placehold.co/400x300?text=Mochila",
+    "category": "Accesorios",
+    "active": true
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "code": "DESCUENTO10",
+    "percentage": 10,
+    "active": true
+  },
+  {
+    "code": "DESCUENTO20",
+    "percentage": 20,
+    "active": true
+  }
+]
