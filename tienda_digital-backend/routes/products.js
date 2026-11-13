@@ -2,7 +2,7 @@ const express = require("express");
 
 const router = express.Router();
 
-const { readJSON } = require("../utils/jsonDB");
+const { readJSON } = require("../utils/jsonDB.js");
 
 // Obtener productos
 router.get("/", async (req, res) => {
