@@ -1,1 +1,1654 @@
-[]
+[
+  {
+    "id": "ORD-ccb5f1fe-e43d-4d10-88f3-085c3515e094",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      },
+      {
+        "productId": "P003",
+        "name": "Mochila Urbana",
+        "price": 35000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 100000,
+    "discount": 10000,
+    "shippingCost": 0,
+    "total": 90000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-14T22:28:15.245Z"
+  },
+  {
+    "id": "ORD-1853c8d0-3782-40e4-94a3-4bc104115109",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      },
+      {
+        "productId": "P003",
+        "name": "Mochila Urbana",
+        "price": 35000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 100000,
+    "discount": 10000,
+    "shippingCost": 0,
+    "total": 90000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-14T22:28:19.911Z"
+  },
+  {
+    "id": "ORD-b001f622-e8a2-4364-a3b8-f5e6bb3d6dd2",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:26:54.432Z"
+  },
+  {
+    "id": "ORD-73f2bc2e-90b1-441c-85cb-a8fc3c86a7f6",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:26:58.000Z"
+  },
+  {
+    "id": "ORD-f85da889-5237-4c40-9a0c-cefb849bba0e",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:27:18.168Z"
+  },
+  {
+    "id": "ORD-23f6dc65-66ea-4ac4-aaf6-7be16e77ae97",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:30:47.397Z"
+  },
+  {
+    "id": "ORD-3a1ab813-7578-46cc-a878-685526b942ba",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:34:53.301Z"
+  },
+  {
+    "id": "ORD-2abaf803-8f2f-4c17-a53e-e858eb942c41",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:35:14.662Z"
+  },
+  {
+    "id": "ORD-1860f72c-8ca1-47fe-a5f8-e7ce30c96848",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:36:05.228Z"
+  },
+  {
+    "id": "ORD-bb86502e-7065-454c-a4a5-a23b2d0a6401",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:58:47.520Z"
+  },
+  {
+    "id": "ORD-27cfacee-7a17-42c4-ad11-42bcf90292f4",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T19:59:09.777Z"
+  },
+  {
+    "id": "ORD-b18eefbc-87bb-4ddd-9ffb-d8997d11760d",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:02:52.016Z"
+  },
+  {
+    "id": "ORD-13f2fd1e-41c3-4145-ba42-072f5d635000",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:03:16.604Z"
+  },
+  {
+    "id": "ORD-4a896cef-cf14-41db-9365-5d2ba2739f1a",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:05:16.179Z"
+  },
+  {
+    "id": "ORD-40ca2b6e-4236-4fe9-b938-440e4450940f",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:07:07.388Z"
+  },
+  {
+    "id": "ORD-0e252374-6673-4f86-bb86-ac76b97c59f1",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:08:19.957Z"
+  },
+  {
+    "id": "ORD-86121758-fcce-4209-88d7-87ed757bd904",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:08:54.749Z"
+  },
+  {
+    "id": "ORD-17e81137-40d0-4060-b298-dce70e22d004",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:09:26.756Z"
+  },
+  {
+    "id": "ORD-e40db9b1-464f-487a-9548-b473c27cefe3",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:09:34.996Z"
+  },
+  {
+    "id": "ORD-bfca1960-77d6-40db-86d5-fd6aa2dc7fcb",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:10:20.118Z"
+  },
+  {
+    "id": "ORD-af475e25-152b-40c5-9a0b-deec0f9ec254",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:16:44.586Z"
+  },
+  {
+    "id": "ORD-d88ebf16-f82b-4af5-906e-fd2f9fb6ae3c",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:32:06.289Z"
+  },
+  {
+    "id": "ORD-2d6fce21-2821-44dd-9843-085c130189c6",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:32:16.970Z"
+  },
+  {
+    "id": "ORD-6ad713f8-f591-4826-8605-048d6b775f11",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:32:36.945Z"
+  },
+  {
+    "id": "ORD-3b2b40ac-af2b-4e3f-a125-262791ab068a",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:33:09.501Z"
+  },
+  {
+    "id": "ORD-ecc55b0b-af10-4c75-ad37-13e79206faf4",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:33:24.341Z"
+  },
+  {
+    "id": "ORD-e91f110f-041a-41c6-97df-98723aa826e8",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "1111"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:33:49.718Z"
+  },
+  {
+    "id": "ORD-f7c82e19-4e1f-43c3-b80b-09ae3b94ae3f",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "123321123321",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 155000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:36:35.266Z"
+  },
+  {
+    "id": "ORD-dba4bebe-e6ce-4874-9cae-a47d35d2d4d1",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:38:08.719Z"
+  },
+  {
+    "id": "ORD-61f85802-e054-461a-82cc-286c06d179a0",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:39:41.076Z"
+  },
+  {
+    "id": "ORD-e692819a-5282-4e14-a031-0c74a89bdbf6",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T20:43:20.012Z"
+  },
+  {
+    "id": "ORD-b8284409-8e20-4a28-9994-7fd21f715cdb",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T21:12:17.530Z"
+  },
+  {
+    "id": "ORD-bc088b57-2e84-4439-8e8d-a1b7c0dd28e1",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T21:13:25.605Z"
+  },
+  {
+    "id": "ORD-25355376-1f29-494a-ac25-e0f6c09ed8d8",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T21:14:09.485Z"
+  },
+  {
+    "id": "ORD-f0fded31-442b-4e08-b4cd-657de8e39996",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T21:14:27.918Z"
+  },
+  {
+    "id": "ORD-3c736e2b-8cdb-490e-8f6b-7b94c13b7f73",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T21:14:50.117Z"
+  },
+  {
+    "id": "ORD-22de6710-8a98-4464-abf6-15935cf4da0e",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T21:17:46.909Z"
+  },
+  {
+    "id": "ORD-eea572af-fdcc-40b0-a999-b576c3fc6ed7",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-15T21:18:44.777Z"
+  },
+  {
+    "id": "ORD-3a5a9de6-2397-41ee-a4e1-092e2c8cfe8a",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:09:21.278Z"
+  },
+  {
+    "id": "ORD-13af249d-b3a5-4a40-9438-e0b5526e54f1",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:14:19.347Z"
+  },
+  {
+    "id": "ORD-736a0a47-aa15-4b55-9871-b398b3d24b54",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:30:17.226Z"
+  },
+  {
+    "id": "ORD-d4784fd3-736e-422f-8234-7dd211759cdd",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:46:21.263Z"
+  },
+  {
+    "id": "ORD-5042eb42-e4a9-46f2-b556-5240b4930e02",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:49:46.178Z"
+  },
+  {
+    "id": "ORD-beec68a7-69a6-4277-8982-be42e69e8bf0",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:49:52.477Z"
+  },
+  {
+    "id": "ORD-cfec5e08-881c-40a9-9a0b-1aec23635e27",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:51:35.719Z"
+  },
+  {
+    "id": "ORD-87d09cbf-5c49-4af9-aefd-5ae1bf33e464",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:51:38.099Z"
+  },
+  {
+    "id": "ORD-0d80fdcd-d8db-43b8-b0f0-c1534ddf02f2",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:51:40.436Z"
+  },
+  {
+    "id": "ORD-d478e652-3141-44bd-ad75-e92cf85f503f",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T14:54:42.230Z"
+  },
+  {
+    "id": "ORD-5ac3d6a1-bf93-44d1-b20f-430a697270ba",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 50000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-16T15:06:54.973Z"
+  },
+  {
+    "id": "ORD-1033ad24-c4c8-4ddd-bfde-da6b7d7515c2",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 90000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 95000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T14:58:27.569Z"
+  },
+  {
+    "id": "ORD-1e1b242e-9734-4fa8-8726-3f8ba2d7a33e",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 90000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 95000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T15:05:51.488Z"
+  },
+  {
+    "id": "ORD-c946e51f-aaa7-4c1c-9743-36c781c24bcf",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 90000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 95000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T15:10:43.851Z"
+  },
+  {
+    "id": "ORD-e8ceb641-259c-4d31-b0e3-12496fdabb71",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 90000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 95000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T15:10:51.513Z"
+  },
+  {
+    "id": "ORD-c2eb63ba-3305-4797-bc27-b8f9d67428ea",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "8888888888",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "5555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 90000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 95000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T15:13:30.932Z"
+  },
+  {
+    "id": "ORD-651c8647-1dda-4221-bce3-f55dc791d328",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "123123123123123",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "55555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 90000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 95000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T17:07:49.311Z"
+  },
+  {
+    "id": "ORD-2f90ec74-adf6-45dc-9449-c3c65961a753",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "123123123123123",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "55555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 90000,
+    "discount": 0,
+    "shippingCost": 5000,
+    "total": 95000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T17:11:39.888Z",
+    "preferenceId": "3845625570-b933c446-a37c-427a-a638-d30900399389"
+  },
+  {
+    "id": "ORD-2e76ab53-9c4f-4af0-8cba-980924b57d7d",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "55555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 9000,
+    "shippingCost": 5000,
+    "total": 41000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-17T17:35:10.021Z",
+    "preferenceId": "3845625570-869d1725-ec70-42a4-9cfd-428e00ef75f7"
+  }
+]

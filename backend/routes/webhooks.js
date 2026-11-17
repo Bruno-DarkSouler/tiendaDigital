@@ -119,6 +119,7 @@ router.post("/mp", async (req, res) => {
     }
 
     if (order.status === "approved") {
+      
       return;
     }
 
@@ -128,6 +129,33 @@ router.post("/mp", async (req, res) => {
       !["approved", "pending", "rejected", "cancelled"]
         .includes(status)
     ) {
+      if (status === "approved") {
+
+        const products = await readJSON("products.json");
+
+        // Comprobar stock nuevamente
+        for (const item of order.items) {
+          const product = products.find(
+            p => p.id === item.productId
+          );
+
+          if (!product || product.stock < item.quantity) {
+            console.error("Stock insuficiente al confirmar pago");
+            return;
+          }
+        }
+
+        // Descontar stock
+        for (const item of order.items) {
+          const product = products.find(
+            p => p.id === item.productId
+          );
+
+          product.stock -= item.quantity;
+        }
+
+        await writeJSON("products.json", products);
+      }
       return;
     }
 
