@@ -1704,5 +1704,38 @@
     "paymentId": null,
     "createdAt": "2026-11-17T19:03:28.579Z",
     "preferenceId": "3845625570-28ac6094-1d9d-465f-bb36-d6894931f087"
+  },
+  {
+    "id": "ORD-50cc2d9e-3ef5-4019-a189-355d47d2bda5",
+    "buyer": {
+      "firstName": "Bruno",
+      "lastName": "Fornasar",
+      "email": "brunofornasar@gmail.com",
+      "phone": "1111111111111",
+      "address": "Avenida Siempre Viva 123",
+      "postalCode": "55555"
+    },
+    "items": [
+      {
+        "productId": "P001",
+        "name": "Auriculares Bluetooth",
+        "price": 45000,
+        "quantity": 1
+      },
+      {
+        "productId": "P002",
+        "name": "Reloj Inteligente",
+        "price": 65000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 175000,
+    "discount": 0,
+    "shippingCost": 0,
+    "total": 175000,
+    "status": "pending",
+    "paymentId": null,
+    "createdAt": "2026-11-18T19:38:15.193Z",
+    "preferenceId": "3845625570-1df29741-d191-4aaf-ac6f-f04818aed91b"
   }
 ]
